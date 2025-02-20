@@ -4,7 +4,7 @@ function App() {
   
   return (
     <div>
-      <h1>Primeiro react-vite!!!!!!</h1>
+      <h1>Segundo react-vite!!!!!!</h1>
     </div>
   );
 }
